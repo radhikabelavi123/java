@@ -1,0 +1,5 @@
+public class boring{
+//add main method
+public Static void mainString arg[]){
+System.out.println("Session completed,pending Session is practical");
+}
